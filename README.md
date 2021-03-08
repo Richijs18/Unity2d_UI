@@ -6,7 +6,7 @@ Pirmais unity 2d projekts
 - [x] Ievietot attēlus 
 - [x] Ievietot check box
 - [x] Nodrošinat radio pogas darbību
-- [ ] Izveidot izkrītošās sarakstes poga
-- [ ] Nodrošināt attēla izmēra maiņu ar bīdjoslu
-- [ ] Nodrošināt attēla pārvietošanas ar peles palīdzību
-- [ ] Pievienot audio failus
+- [x] Izveidot izkrītošās sarakstes poga
+- [x] Nodrošināt attēla izmēra maiņu ar bīdjoslu
+- [x] Nodrošināt attēla pārvietošanas ar peles palīdzību
+- [x] Pievienot audio failus
